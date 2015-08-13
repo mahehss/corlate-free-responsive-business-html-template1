@@ -409,7 +409,7 @@ input.search-form:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 730px;
+  height: 530px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -2837,13 +2837,13 @@ div#execs {
 {
 	    color: rgb(70, 67, 68) !important;
     font-weight: bold;
-    text-transform: capitalize;
+    ztext-transform: capitalize;
 }
 .carousel-inner .slide2 h1, .carousel-inner .slide2 h2
 {
 	    color: rgb(70, 67, 68) !important;
     font-weight: bold;
-    text-transform: capitalize;
+    ztext-transform: capitalize;
 }
 
 #main-slider .carousel .slide1 
@@ -2857,4 +2857,8 @@ div#execs {
 .logo
 {
 	width:30px;
+}
+#about-us
+{
+	padding: 30px 0!important;
 }
